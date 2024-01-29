@@ -10,4 +10,5 @@ images = extract_obj.get_img_test(DIRECTORY)
 
 #get target obj from images as list of openCV object
 #save target obj in ./img/sub/
-target_obj = extract_obj.extract_obj_from_images(images)
+target_obj = extract_obj.extract_obj_from_images(images, saving_img=True)
+print((target_obj[1]))
