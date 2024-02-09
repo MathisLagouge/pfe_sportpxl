@@ -1,6 +1,6 @@
-path: /home/magic/AI/PFE/pfe_sportpxl/data_detect
+path: /home/magic/AI/PFE/pfe_sportpxl/data_segment
 train: train/images/
-val: test/images/
+val: train/images/
 test: 
 
 names:
