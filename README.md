@@ -4,4 +4,4 @@ PFE entreprise sportpxl
 
 current best weights: 
 
-runs/detect/train42/weights/best.pt
+runs/detect/train6/weights/best.pt
