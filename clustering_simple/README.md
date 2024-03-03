@@ -15,4 +15,4 @@ Dans le terminal :
 
 	$ python main.py
 
-Les sortie sont classée dans output
+Les sorties sont classées dans output
