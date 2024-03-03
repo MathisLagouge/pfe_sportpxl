@@ -1,0 +1,11 @@
+data/
+all_annotations/
+all_images/
+all_segments/
+data_detect/
+all_annotations/
+data_segment/
+test_images/
+runs/
+*.pt
+.ipynb_checkpoints/

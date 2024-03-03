@@ -1,0 +1,11 @@
+path: /home/magic/AI/PFE/pfe_sportpxl/data_detect
+train: train/images/
+val: test/images/
+test: 
+
+names:
+  0: other1
+  1: other2
+  2: other3
+  3: other4
+  4: car
