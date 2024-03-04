@@ -1,7 +1,10 @@
 # pfe_sportpxl
+
 PFE entreprise sportpxl
 
+For clustering advance, execute in order: 
 
-current best weights: 
-
-runs/detect/train6/weights/best.pt
+- pre-train
+- feature_extraction
+- cluster
+- test-model
